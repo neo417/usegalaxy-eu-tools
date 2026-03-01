@@ -1375,7 +1375,6 @@ tools:
   owner: iuc
   revisions:
   - 1c2ebb81a211
-  - 36ce83a739f2
   - 936a1edffce8
   - eca7d3a0c5f2
   tool_panel_section_label: Assembly
@@ -3448,7 +3447,6 @@ tools:
 - name: pretext_snapshot
   owner: iuc
   revisions:
-  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 6c571966cfb9
