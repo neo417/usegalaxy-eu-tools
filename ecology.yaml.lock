@@ -862,6 +862,7 @@ tools:
   - 3dd49be3f7d3
   - 5e33b465d8d5
   - 75c93c70d094
+  - 862943c10425
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -939,6 +940,7 @@ tools:
 - name: obi_annotate
   owner: iuc
   revisions:
+  - 1b8f9a62811b
   - 3021b9f5809f
   - d50dc96e3ce9
   tool_panel_section_label: DNA Metabarcoding
@@ -964,6 +966,7 @@ tools:
   owner: iuc
   revisions:
   - 4d705e3443a7
+  - dce297ace751
   - e328ced6cf0a
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_sort
