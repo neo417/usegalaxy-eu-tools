@@ -948,17 +948,20 @@ tools:
   owner: iuc
   revisions:
   - 02bab5ff7c37
+  - d16990a72638
   - e9e49cf06b42
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_uniq
   owner: iuc
   revisions:
   - c0f7b58b4ce4
+  - cb91d030d8ba
   - d4bea99366f9
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_clean
   owner: iuc
   revisions:
+  - 6fa6df09d606
   - 7d16de45c021
   - 816cbd8f4e6e
   tool_panel_section_label: DNA Metabarcoding
