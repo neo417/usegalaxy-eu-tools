@@ -30,7 +30,6 @@ tools:
   - 1920244e2895
   - 2fa74a3f6670
   - 573cfe217474
-  - 7844dbe4f8e2
   tool_panel_section_label: Annotation
 - name: annotatemyids
   owner: iuc
@@ -1398,8 +1397,6 @@ tools:
 - name: pretext_graph
   owner: iuc
   revisions:
-  - 1c2ebb81a211
-  - 36ce83a739f2
   - 8e422c873d02
   - 936a1edffce8
   - eca7d3a0c5f2
@@ -2207,7 +2204,6 @@ tools:
   owner: iuc
   revisions:
   - 15317b79c449
-  - 43af02990a47
   - b64c033f5b02
   - e0b7c98f29bb
   tool_panel_section_label: Evolution
@@ -2271,7 +2267,6 @@ tools:
   owner: iuc
   revisions:
   - 04d05400d3a6
-  - 40874f772ea1
   - ff174ae7a02f
   tool_panel_section_label: FASTA/FASTQ
 - name: art
@@ -3525,7 +3520,6 @@ tools:
 - name: pretext_snapshot
   owner: iuc
   revisions:
-  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 6c571966cfb9
@@ -3609,7 +3603,6 @@ tools:
   - 952abbc4b1de
   - 989cec209ba2
   - b53973719d7b
-  - c3ffb2c1e314
   - ee745fbe9f14
   - fb7068d30ec9
   - fb981b15ccef
@@ -3618,7 +3611,6 @@ tools:
   owner: bgruening
   revisions:
   - 1e52af48d34e
-  - 45828071edc3
   - 57aeaf6b237d
   - 7157e98ec11a
   - 7ec5229e2a19
@@ -3635,7 +3627,6 @@ tools:
   revisions:
   - 0671a38a29d5
   - 163fd744e235
-  - 1a31e75e979e
   - 23b8d6b8960c
   - cab616fe7e64
   tool_panel_section_label: HiCExplorer
@@ -3649,7 +3640,6 @@ tools:
   - 43c24d0bd463
   - 46793007f090
   - 61e2d34c5b99
-  - '920526260066'
   - ae8bf5420df2
   - b9ab56aecd18
   - dbf82dd7bdb3
@@ -3666,7 +3656,6 @@ tools:
   - a63e9713c39d
   - b892fa1fcaec
   - db4a82804126
-  - f6a169b5e43b
   - fadd03fbc4f5
   - feb7f62a0ff9
   tool_panel_section_label: HiCExplorer
@@ -3684,13 +3673,11 @@ tools:
   - 7668fac6cc3a
   - e9cf8387e386
   - f8320df1866b
-  - ff1af7bac1cb
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_chicviewpoint
   owner: bgruening
   revisions:
   - 0dabfd9a496b
-  - 37125838e360
   - 40fee49bc6c3
   - 68c92dfd03d7
   - 6d76e532b669
@@ -3706,7 +3693,6 @@ tools:
   owner: bgruening
   revisions:
   - 628259b7ffb4
-  - 6f8debcf2ac9
   - 83570b36593e
   - 91abc3b2e948
   - 9d02f1819e81
@@ -3729,14 +3715,12 @@ tools:
   - aeacaf08bd52
   - cc52e4ded146
   - e06265d204f6
-  - e8760fc0e29b
   - ea297a9c6f11
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicaggregatecontacts
   owner: bgruening
   revisions:
   - 0c812ed34277
-  - 30677e95bc89
   - 63c8377c58b3
   - 7066a1eda176
   - 8286e361f89c
@@ -3755,7 +3739,6 @@ tools:
   - 03d7978293fe
   - 0ec8d77d1833
   - 2818b428a5c5
-  - 3240e8a7c54f
   - 4b6a36c18e5e
   - 8a11d70b6cd8
   - b15d27c440fd
@@ -3788,7 +3771,6 @@ tools:
   - 3ee5332bf57c
   - 4f9305d3bb34
   - 55b4b8bc250d
-  - 5dd1aae12f03
   - 6d2c4187805b
   - 6f078762ff7f
   - 80abd5e2922a
@@ -3806,7 +3788,6 @@ tools:
   - 4401ed529d2c
   - 4630448a0d88
   - 536a6f0d260c
-  - 87eb9c58cd19
   - 8d764e8acdf5
   - a315574104c6
   - bd6e26c47853
@@ -3822,7 +3803,6 @@ tools:
   - 2f62a87d4017
   - 3b15581e7ca7
   - 3e598b8e72e7
-  - 574f295b5ba4
   - 835d4d727688
   - a83732c79949
   - c0737631eea1
@@ -3835,7 +3815,6 @@ tools:
   - 30d7390bc918
   - 5443b2b1165f
   - 62b720dceb56
-  - 937b7b9832d0
   - 9949f055db84
   - c543c41377dd
   - c5ce0cbf73dc
@@ -3849,7 +3828,6 @@ tools:
   owner: bgruening
   revisions:
   - 0942d0a1b0bd
-  - 0f5786ffa10d
   - 1099d84fcc21
   - 2786a931cad2
   - 2b4d6a8dab36
@@ -3869,7 +3847,6 @@ tools:
   - 0d6c2ff54c76
   - 18bf75bf5d67
   - 2d1f9759fa0e
-  - 4375e25de06a
   - 5759cd7db0d1
   - bf9379529c3e
   - c3f9037423bd
@@ -3881,7 +3858,6 @@ tools:
   owner: bgruening
   revisions:
   - 07dd436ea686
-  - 4977f65da0ff
   - 5b245b3ded3f
   - 5dfba24d7bdd
   - 608538d083a2
@@ -3899,7 +3875,6 @@ tools:
   - 9369e9b11b8d
   - 972dcccb5bbc
   - aa829050d061
-  - f0b1bd38745a
   - f1b3902f8baf
   - fc0667d83f7c
   tool_panel_section_label: HiCExplorer
@@ -3908,7 +3883,6 @@ tools:
   revisions:
   - 11de0d28ab30
   - 1d9b575fe97d
-  - 478aacfbaa37
   - 5746d61f0a91
   - 6b7987d22eab
   - 6bda631b9239
@@ -3924,7 +3898,6 @@ tools:
   owner: bgruening
   revisions:
   - 1fa29fabe773
-  - 3e5c86c2f80d
   - 409396ea5cf0
   - 7f7c6ead2d0d
   - 89fb1aab755b
@@ -3940,7 +3913,6 @@ tools:
   - 615e9d59a682
   - 708e1b8eff5c
   - 782e3ae92bc6
-  - 7fbd6feba1ca
   - b0f33533181d
   - ca97d2b2b59e
   - de14870013da
@@ -3951,7 +3923,6 @@ tools:
   revisions:
   - 32173084d53f
   - 55b013e59018
-  - 908fa330b93b
   - c261b6b05ee3
   - eddb1f249f6c
   tool_panel_section_label: HiCExplorer
@@ -3964,13 +3935,11 @@ tools:
   - b376ef118807
   - b6b8c8672756
   - ee33791e32dc
-  - febfddb0b3e8
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicmergeloops
   owner: bgruening
   revisions:
   - 1511a8ebe906
-  - 1d9799f4b854
   - 420868438a99
   - 49b82255b72f
   - 59d3fa4c16f5
@@ -3991,7 +3960,6 @@ tools:
   - 6bb9545b7c68
   - 7011782fdbaf
   - 977dc15add20
-  - 9d93c8fbe0a6
   - 9e357a8b2ec3
   - a1cf508bff84
   - c5280c9117f3
@@ -4005,7 +3973,6 @@ tools:
   - 2aa5b6b65197
   - 483e507c8d42
   - 4f36f2d51d33
-  - 5e83c077e31d
   - 6d042c96aceb
   - 8ad23dfdaabb
   - b1815cb2b298
@@ -4028,14 +3995,12 @@ tools:
   - c3e5e2cf12b7
   - c435572f7cf1
   - d5a86de86846
-  - f86ca478c6af
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotaverageregions
   owner: bgruening
   revisions:
   - 0dff8b5011c0
   - 16a8d1688c65
-  - 3f1b286a5c34
   - 5ae69a0a33bf
   - 5fb461d15c31
   - 8f4b98b0f9a9
@@ -4053,7 +4018,6 @@ tools:
   - 34dc1acfcc62
   - 6326cd29c1c3
   - 6abd5817e0cd
-  - 89cfe7de541b
   - 8c1ac76d7063
   - 9f0578013f9b
   - a4a413dcc59d
@@ -4065,7 +4029,6 @@ tools:
 - name: hicexplorer_hicplotmatrix
   owner: bgruening
   revisions:
-  - 025a128652dc
   - 12d51d7be66f
   - 40b33e101621
   - 492c1c966a22
@@ -4082,7 +4045,6 @@ tools:
 - name: hicexplorer_hicplotsvl
   owner: bgruening
   revisions:
-  - 1602cc5b673c
   - 1923cc7e6bc2
   - 279fb179dae7
   - 337705015ee8
@@ -4104,7 +4066,6 @@ tools:
   - 7cdc1a2de16e
   - 84d4b83f092a
   - 8d203e74869b
-  - a10fce08c2dc
   - b637a1e3cb14
   - bb9e080ae77b
   - d5c24ac2da6e
@@ -4137,7 +4098,6 @@ tools:
   - 86958f9bec1b
   - c08c07412bd0
   - c4ee66c35eb6
-  - d74cf4a61d65
   - d78ae621fc63
   - df354ef7bb5f
   - e89bc5e38823
@@ -4166,7 +4126,6 @@ tools:
   - a4b4bb07ed14
   - ae9cc6dbfaca
   - dc25d1f9927b
-  - df64cc4dfb4d
   - f36828ebdc54
   - ff11c08dc0d0
   tool_panel_section_label: HiCExplorer
@@ -4182,7 +4141,6 @@ tools:
   - 619805cff065
   - 662109a754b5
   - cef9fb4ece1c
-  - d890828ab02a
   - f011486cbaaa
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicadjustmatrix
@@ -4742,7 +4700,6 @@ tools:
   owner: iuc
   revisions:
   - 5941e51c228b
-  - 75214276e2b7
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_alpha_diversity
   owner: iuc
@@ -5156,7 +5113,6 @@ tools:
   revisions:
   - 0f5f7fa9c08f
   - 24313e0ff049
-  - 304ac5b49dea
   - 66acaec9f386
   - dd6cab3012e1
   tool_panel_section_label: Metagenomic Analysis
@@ -8565,7 +8521,6 @@ tools:
   owner: iuc
   revisions:
   - 01f4de723b03
-  - 376c7db05800
   - 6569ef485c2e
   - b1c5f855ac6a
   tool_panel_section_label: Phylogenetics
@@ -8843,7 +8798,6 @@ tools:
   owner: iuc
   revisions:
   - 01ccd366690d
-  - 0da0b2dc624c
   - 3d61a698e5e1
   - 45c2ec061cf9
   - 4f1efcc055d5
@@ -8862,7 +8816,6 @@ tools:
   - 68ff8cd874db
   - 765e685641ce
   - 7acb00fc980a
-  - a2c1c52a7e47
   - a9b4d7761b46
   - cf01dd6c6b1f
   - cf18a5993aa2
@@ -9208,7 +9161,6 @@ tools:
 - name: idr
   owner: iuc
   revisions:
-  - de7795890bc5
   - ead35c868b99
   tool_panel_section_label: RNA Analysis
 - name: isoformswitchanalyzer
@@ -9987,7 +9939,6 @@ tools:
   owner: devteam
   revisions:
   - 2ce517eb9af2
-  - 69dca890852c
   - 6c2c1836728b
   - 9ede25e390ff
   - a430da4f04cd
