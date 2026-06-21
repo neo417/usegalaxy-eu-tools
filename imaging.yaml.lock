@@ -475,6 +475,7 @@ tools:
 - name: imagej2_analyze_particles_binary
   owner: imgteam
   revisions:
+  - 0601a9056642
   - 1dd5396c734a
   - 862af85a50ec
   - ae4ae9c5c56c
@@ -494,6 +495,7 @@ tools:
   - 1a7c29d5fc11
   - 666af1279007
   - 69e28b06e027
+  - b63ed4bb2289
   tool_panel_section_label: Imaging
 - name: imagej2_noise
   owner: imgteam
@@ -517,6 +519,7 @@ tools:
   revisions:
   - 7baf811ed973
   - c8bb47840c8d
+  - ec82bbbeb775
   - f3c9192bd0b9
   - f7ae316b00e4
   tool_panel_section_label: Imaging
@@ -551,6 +554,7 @@ tools:
   revisions:
   - 0a0d2dfd17e0
   - 711adedc5bb8
+  - a13240a1a6d3
   - e9243cad1d67
   tool_panel_section_label: Imaging
 - name: imagej2_watershed_binary
@@ -568,6 +572,7 @@ tools:
   - 69e951528a0b
   - 95b7592729e2
   - aa4a5a8c4cfd
+  - aed895206786
   - eabdcf6ad900
   tool_panel_section_label: Imaging
 - name: imagej2_smooth
@@ -597,6 +602,7 @@ tools:
 - name: imagej2_bunwarpj_compare_raw
   owner: imgteam
   revisions:
+  - 2802f5bf9380
   - 77411a986a70
   - 9349961e09ce
   - b0da913f048e
@@ -623,6 +629,7 @@ tools:
   - 418b1fa32b83
   - 49e29abe0fce
   - 4c43ba752312
+  - f4e396f032fc
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
@@ -643,6 +650,7 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   - d48c999b3b96
   - d7fbe9662213
