@@ -159,14 +159,12 @@ tools:
   - 562f3c677828
   - 746e8e4bf929
   - aaafc0ac4dd2
-  - d642efa5cbd7
   tool_panel_section_label: Join, Subtract and Group
 - name: datamash_reverse
   owner: iuc
   revisions:
   - 0f1724dd59d2
   - 17e3b698dd52
-  - 9c42f7dabad8
   - b5cc41ad28b3
   - b8a457820315
   - f198773344e4
@@ -441,7 +439,6 @@ tools:
 - name: divand_full_analysis
   owner: ecology
   revisions:
-  - 231179dea9dd
   - 462a44dfd3c4
   tool_panel_section_label: Climate Analysis
 - name: landcover_subindicator
@@ -639,7 +636,6 @@ tools:
   - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
-  - 80852884053f
   - b7c3e9a3b954
   - de94341feadb
   - e1b37bdc5fbd
@@ -653,7 +649,6 @@ tools:
   - 86a086d2bbed
   - 86c5b627ddb6
   - e6f4d3d9058c
-  - e99cccc3ca13
   - eb41d87cb1de
   - fed1850f01c3
   tool_panel_section_label: Machine Learning
@@ -665,7 +660,6 @@ tools:
   - 36e8d6d5d01b
   - 5023535e9f8b
   - 69c44aab684e
-  - 7626ea9c2e1b
   - c6ae57f774c6
   - e5a5ad882f1f
   - f484f41ea0dd
@@ -676,7 +670,6 @@ tools:
   - 019bd8289224
   - 1ed23c988ff6
   - 43a859a0fab5
-  - 4c4ec859c31a
   - 7442b94d6a1e
   - 9c3e1d3235c8
   - aef56d0e7a61
@@ -689,7 +682,6 @@ tools:
   - 226524df8c6c
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
-  - 7614281473da
   - a61375e306c1
   - b07416ec8d16
   - c84ab9ca4e5c
@@ -704,7 +696,6 @@ tools:
   - 4cc980df6265
   - 672327583f74
   - 7ae443e6217d
-  - 8b1b2b91f8d0
   - 900c42c3eef4
   - c030e4bb1b39
   - cd02bf168d23
@@ -721,13 +712,11 @@ tools:
   - 981a0328d6bb
   - ad7e0b4291ee
   - bb9fc9d46ea4
-  - e10e776f2109
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
   - 00f01f713c3c
-  - 060ca94ac049
   - 0b98933cf0f7
   - 360330a867f0
   - 53616c8b0865
@@ -744,7 +733,6 @@ tools:
   - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
-  - 96bb4c49e30e
   - 9e0e31bd8392
   - e918f33f7d4f
   - fcadeadd51ae
@@ -755,7 +743,6 @@ tools:
   - 0ff864fabfe9
   - 484a98c44f00
   - 6c030fe29722
-  - 761269451e98
   - 80074b842ebd
   - 9ac0b78c6b6d
   - dde13d557dc4
@@ -768,7 +755,6 @@ tools:
   - 048d7bd59326
   - 0ee984c1cbd6
   - 68afcd163b3d
-  - 6ffedbe712c0
   - 80ca74b1cb36
   - a0061a087409
   - a7067bbf1e58
@@ -781,7 +767,6 @@ tools:
   - 3badea963c3b
   - 4e6ada84d334
   - 5c9fb40ae174
-  - 627be0156505
   - 7acb9b46c066
   - 7d98dfb04d27
   - 8ced2fac52f4
@@ -796,7 +781,6 @@ tools:
   - 3e2921875c58
   - 4335cec181ba
   - 4ee087eeda62
-  - 6adef419e041
   - 78a60f884ac9
   - 87cb9cb44d1f
   - dea38330b78a
@@ -811,7 +795,6 @@ tools:
   - a3495337ab56
   - bf32512b1418
   - d3fe6fcc6bf4
-  - d4808d5b83da
   - dc4b5fd604a6
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -825,7 +808,6 @@ tools:
   - bacc38e0a29e
   - be4f389a95d9
   - bfc7bdfcb423
-  - e06ab1e112cc
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
   owner: bgruening
@@ -837,7 +819,6 @@ tools:
   - 602b5fb7ef09
   - 648b81bca7c5
   - a84e6ffd3735
-  - b7e93c1deb3f
   - ecd247e1ea9c
   - f49aad8f79ea
   tool_panel_section_label: Statistics
@@ -965,7 +946,6 @@ tools:
   - 3ac96c352a3d
   - 4da9a24971bd
   - 6c19e0d33cf6
-  - c96ce8ed191c
   - d50dc96e3ce9
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_grep
@@ -973,7 +953,6 @@ tools:
   revisions:
   - 02bab5ff7c37
   - 7e68109625a3
-  - 98bec443b342
   - be475ac055b2
   - d16990a72638
   - e5cf6d670369
@@ -983,7 +962,6 @@ tools:
   owner: iuc
   revisions:
   - 3cd66db293f6
-  - 9eded74a3d03
   - c0f7b58b4ce4
   - c89bb0ef8f25
   - cb91d030d8ba
@@ -999,7 +977,6 @@ tools:
   - 7d16de45c021
   - 816cbd8f4e6e
   - 9c6619b29650
-  - f5e899be558b
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_convert
   owner: iuc
@@ -1009,7 +986,6 @@ tools:
   - a86cb55cba33
   - ce363293cb55
   - dce297ace751
-  - deaac9e831a4
   - e328ced6cf0a
   tool_panel_section_label: DNA Metabarcoding
 - name: obi_sort
@@ -1345,7 +1321,6 @@ tools:
 - name: argo_getdata
   owner: ecology
   revisions:
-  - 4b84de936c51
   - 6ed1b9c9d4cb
   tool_panel_section_label: Get Data
 - name: obis_data
