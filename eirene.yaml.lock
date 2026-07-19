@@ -565,10 +565,12 @@ tools:
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
   revisions:
+  - 09162867c419
   - 492350f45be9
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_centroid
   owner: recetox
   revisions:
   - 4018639dc0a5
+  - 4787c71cdb6e
   tool_panel_section_label: Metabolomics
