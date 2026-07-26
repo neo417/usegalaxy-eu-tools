@@ -347,6 +347,7 @@ tools:
   - bf28a0fc0db6
   - bf32ae95a06f
   - dbbedb14b44c
+  - e9fa79966366
   tool_panel_section_label: Metabolomics
 - name: xtb_molecular_optimization
   owner: recetox
@@ -435,6 +436,7 @@ tools:
 - name: xcms_plot_raw
   owner: workflow4metabolomics
   revisions:
+  - 4e0975c50db5
   - 520448a32548
   - 8b8d360316c3
   tool_panel_section_label: Metabolomics

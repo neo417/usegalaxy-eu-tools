@@ -6344,11 +6344,13 @@ tools:
   revisions:
   - 7a97ac708fee
   - a0e1c0d16acf
+  - d316b3aeae2a
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_auto
   owner: iuc
   revisions:
   - 81a33caa9b8a
+  - cd59461a2b01
   - f41d29b1a43e
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_choose_primer_cutoff
@@ -6361,12 +6363,14 @@ tools:
   owner: iuc
   revisions:
   - 9c9b580ee706
+  - d00455e76b07
   - eba53f3623c9
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_gen_bcv
   owner: iuc
   revisions:
   - 790332d37eb1
+  - 95bc5317a54d
   - ffb10fc9b9b9
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_std
@@ -6374,6 +6378,7 @@ tools:
   revisions:
   - 1ddab994fcee
   - 91da437d2be1
+  - 9d552c4f16b9
   tool_panel_section_label: Metagenomic Analysis
 - name: plasflow
   owner: iuc
@@ -7636,6 +7641,7 @@ tools:
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
+  - d663d090c710
   - e8ac2b53f262
   tool_panel_section_label: NCBI Blast
 - name: magicblast
@@ -9179,6 +9185,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 0696db066a5b
   - 2275d0688bca
   - 24a09ca67621
@@ -10049,6 +10056,7 @@ tools:
   revisions:
   - 020e144b5f78
   - 2899e5b8c52a
+  - 2b901d1b7aef
   - 2d7f0d455ad4
   - 30388d878f81
   - 85e38b31e8b3
@@ -11123,6 +11131,7 @@ tools:
   - 4f7a47e3857c
   - 8a2e296c07ef
   - 8a885a1a92ea
+  - b79aae13e613
   - b7ea370b8f5d
   - e075b1be5abb
   tool_panel_section_label: Variant Calling
@@ -11135,6 +11144,7 @@ tools:
   - 1001172b5089
   - 21687e35f066
   - 22637b1a55bf
+  - 89be90465e11
   - a531317a3527
   - b03984136ce4
   - bf06b66ab5c2
@@ -11146,6 +11156,7 @@ tools:
   revisions:
   - 01d6b7d6365e
   - 0238f68ad641
+  - 2b7e7aa56527
   - 3a7084316a6e
   - 61dfbc82ffc8
   - 635532ff1ac9
@@ -11160,6 +11171,7 @@ tools:
   revisions:
   - 03e0645395d2
   - 05f317e50e61
+  - 2844fbbcaa92
   - 6b6c992d3a14
   - 74303445f6bd
   - 81426b3cf18b
@@ -11175,6 +11187,7 @@ tools:
   - 95c6f3f4c77f
   - 9a260f6fab93
   - a87ae767b01d
+  - b75e49f360de
   - d3081540d175
   - d37e313a41be
   - da0bf365652d
@@ -11188,6 +11201,7 @@ tools:
   - 04aa97fc125c
   - 1137ce8efc1e
   - 348cd212dbad
+  - 506cb7ed2a11
   - 9b29129fb491
   - a20d6492132d
   - e968db9208a4
@@ -11196,6 +11210,7 @@ tools:
   owner: iuc
   revisions:
   - 2b3ce2abc747
+  - 4bbdf586aeff
   - 55c0e906c14c
   - 68736d355615
   - 7887b9d94c05
@@ -11208,6 +11223,7 @@ tools:
   revisions:
   - 039ea3f1dea9
   - 1da985043619
+  - 633588f5cf1b
   - 64a8f7dae3ad
   - 6c790a091c7c
   - 7cbf3c66d4ad
@@ -11219,6 +11235,7 @@ tools:
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 1c7dee9f0bf8
   - 277719af4dd7
   - 33bd9301568c
   - 3502f0e1f0e4
@@ -11237,6 +11254,7 @@ tools:
   - 7b4454382d39
   - 9243f0e24906
   - a29a2f40b665
+  - d1ffe13f696e
   tool_panel_section_label: Variant Calling
 - name: bcftools_isec
   owner: iuc
@@ -11246,6 +11264,7 @@ tools:
   - 3d21f507fc5d
   - 57f36434474f
   - 5f27e814a119
+  - 60e73d60fe1a
   - 81e4014fa809
   - 97d19c008d15
   - d7d1663559e9
@@ -11255,6 +11274,7 @@ tools:
   revisions:
   - 2215287d5cc9
   - 27026ed52654
+  - 52f6b7ac3739
   - 5b006286a458
   - 7cb9d0f396c3
   - 86296490704e
@@ -11271,6 +11291,7 @@ tools:
   - 56556e1267de
   - 5660b21a0dbd
   - a0c219ecb5e7
+  - cd06642e9c20
   - ce9396ddcb2b
   - f506df85c652
   tool_panel_section_label: Variant Calling
@@ -11279,6 +11300,7 @@ tools:
   revisions:
   - 021693fdadaa
   - 19905c025d2a
+  - 262d695b5456
   - 271965b55437
   - 48291658fdf6
   - 5226c31ac6d3
@@ -11293,6 +11315,7 @@ tools:
   owner: iuc
   revisions:
   - 51d28b4d3a04
+  - 54def72f84b2
   - 62dc969ef973
   - 71186bb66ca2
   - 7d9166ecd10f
@@ -11307,6 +11330,7 @@ tools:
   - 03e6fb76e969
   - 0505a687ac58
   - 3c6952a2b0e4
+  - 4517996e7c99
   - 77877eec9e8b
   - 96d2000977ab
   - abd806291372
@@ -11322,11 +11346,13 @@ tools:
   - 40daf124be88
   - 76609128aef7
   - a730269af659
+  - f319f4089d5e
   tool_panel_section_label: Variant Calling
 - name: bcftools_plugin_split_vep
   owner: iuc
   revisions:
   - 3b6cd8086498
+  - 527c286bda7e
   - 66682ee970c6
   - 70276425d001
   - 7b71281eb0ca
@@ -11340,6 +11366,7 @@ tools:
   - 31a1b89eab9b
   - 3ce32adc55b2
   - 5fce85148ed1
+  - a9f66225bacd
   - e53501abf992
   - f64e7ca2efd2
   - fc19c09a8beb
@@ -11351,6 +11378,7 @@ tools:
   - 4db0695a6fc7
   - 79489d5685dd
   - a0b1c0bdfa5a
+  - b7432d10bd2d
   - b7be725976b6
   - d453025d7e5d
   - d68c43202172
@@ -11364,6 +11392,7 @@ tools:
   - 6a636d58dfc2
   - 78cd8b69da4c
   - acfd6984d130
+  - f44f646aa172
   - fa65af07ce7d
   tool_panel_section_label: Variant Calling
 - name: bcftools_stats
@@ -11372,6 +11401,7 @@ tools:
   - '388983871932'
   - 4d3ce9dc1525
   - 591cc8518033
+  - 7aea930ab6cc
   - 999c1918479b
   - b17394940c7a
   - e8af591435d1
@@ -11382,6 +11412,7 @@ tools:
   revisions:
   - 052eb3814f0f
   - 1262c96a9974
+  - 12c1e7346150
   - 1a2ef636f48e
   - 2a7d7ee53975
   - 38d75661c235
