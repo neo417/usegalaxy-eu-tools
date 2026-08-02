@@ -563,6 +563,7 @@ tools:
   owner: recetox
   revisions:
   - 00e058234fbf
+  - 430dd5da800c
   tool_panel_section_label: Metabolomics
 - name: bioconductor_msnbase_smooth_chromatogram
   owner: recetox
