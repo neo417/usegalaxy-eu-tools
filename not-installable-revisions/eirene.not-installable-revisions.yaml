@@ -283,3 +283,8 @@ tools:
   owner: recetox
   revisions:
   - ad4176b336dc
+  - ad4176b336dc
+- name: xcms_plot_raw
+  owner: workflow4metabolomics
+  revisions:
+  - 8b8d360316c3
