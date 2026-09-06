@@ -790,6 +790,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_label: Annotation
 - name: orthofinder_onlygroups
@@ -2119,6 +2120,7 @@ tools:
   revisions:
   - 91674d4623a8
   - 9f2d2c96a189
+  - ca3572fb1eab
   tool_panel_section_label: Convert Formats
 - name: emboss_5
   owner: devteam
@@ -2329,6 +2331,7 @@ tools:
   revisions:
   - 04d05400d3a6
   - 40874f772ea1
+  - 73046d24a1a1
   - ff174ae7a02f
   tool_panel_section_label: FASTA/FASTQ
 - name: art
@@ -3274,6 +3277,7 @@ tools:
   owner: iuc
   revisions:
   - 6f3df153a095
+  - 8a4f743c8d3e
   - 8c1bba8d544a
   tool_panel_section_label: Genome editing
 - name: crispr_studio
@@ -4994,6 +4998,7 @@ tools:
   - b7d443cda103
   - cb617c2139fa
   - d5edda7f75eb
+  - d939a8b3defe
   - ffbccf6fe7fb
   tool_panel_section_label: Metagenomic Analysis
 - name: ampvis2_ordinate
@@ -5054,6 +5059,7 @@ tools:
   - 024a22e84bea
   - 0d18b4bb08cb
   - 14b992fb08d4
+  - 1615e0550c98
   - 20a46ce12854
   - 638503db7271
   - 7f5dd19dc792
@@ -5310,6 +5316,7 @@ tools:
   owner: iuc
   revisions:
   - d2dd7be65d47
+  - e59e54ac8e4b
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
   owner: iuc
@@ -5626,6 +5633,7 @@ tools:
   - 33cb918da8d7
   - 4a72acf1cd75
   - 6621beb8bf3e
+  - d3ae5b16a4d8
   tool_panel_section_label: Metagenomic Analysis
 - name: drep_compare
   owner: iuc
@@ -6220,6 +6228,7 @@ tools:
 - name: mash_dist
   owner: iuc
   revisions:
+  - 45fb62c28c9b
   - c932095af671
   tool_panel_section_label: Metagenomic Analysis
 - name: mapseq
@@ -6447,12 +6456,14 @@ tools:
   - a0e1c0d16acf
   - d316b3aeae2a
   - efa3ca193614
+  - feafeeadff01
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_auto
   owner: iuc
   revisions:
   - 1045f1377aa3
   - 4b16765b123f
+  - 6da5db3da6ad
   - 81a33caa9b8a
   - cd59461a2b01
   - f41d29b1a43e
@@ -6463,11 +6474,13 @@ tools:
   - 16d91d782bf8
   - 30adbf0722af
   - 67a9d49fd957
+  - b521c78ffe4c
   - ff94748c0987
   tool_panel_section_label: Metagenomic Analysis
 - name: pimento_find_cutoffs
   owner: iuc
   revisions:
+  - 667d8863c03b
   - 7147d42627dc
   - 9c9b580ee706
   - d00455e76b07
@@ -6477,6 +6490,7 @@ tools:
 - name: pimento_gen_bcv
   owner: iuc
   revisions:
+  - 5b013231feee
   - 790332d37eb1
   - 95bc5317a54d
   - bbf9d5ff34bb
@@ -6491,6 +6505,7 @@ tools:
   - 70af55e04e01
   - 91da437d2be1
   - 9d552c4f16b9
+  - ea746199e14f
   tool_panel_section_label: Metagenomic Analysis
 - name: plasflow
   owner: iuc
@@ -6519,6 +6534,7 @@ tools:
   - 09b7b0b2e2c2
   - 12f0968f171c
   - 2db2dc0eca8c
+  - 2ef21eba2d01
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -6652,6 +6668,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - c58e19ff504a
   - db56c8e79b1e
@@ -6660,12 +6677,14 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - a5a453f92273
   - d6b92ca3a9a1
   tool_panel_section_label: Metagenomic Analysis
 - name: vegan_rarefaction
   owner: iuc
   revisions:
+  - 2e07478654b3
   - 3d1d965b6423
   - af1211ed6c8e
   - dd2705a31239
@@ -6746,6 +6765,7 @@ tools:
   revisions:
   - 6150c3b0a1eb
   - ee32f1a3b2a7
+  - ee7ff6485f38
   tool_panel_section_label: Metagenomic Analysis
 - name: metasbt_index
   owner: iuc
@@ -8960,6 +8980,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 97255f6fdf7e
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -8985,6 +9006,7 @@ tools:
 - name: fileidentification
   owner: iuc
   revisions:
+  - 46a5059d7701
   - 639d81cf8ac8
   tool_panel_section_label: Quality Control
 - name: bayescan
@@ -9071,6 +9093,7 @@ tools:
   - 3d61a698e5e1
   - 45c2ec061cf9
   - 4f1efcc055d5
+  - 4f7fb8cc6758
   - 6535dd4a4064
   - a24ca22b906e
   - add230dddd52
@@ -9097,6 +9120,7 @@ tools:
   revisions:
   - 125d20cb23d7
   - 1fe9d667447c
+  - 26ad140cac5b
   - 32e542c2a773
   - 47311adce34e
   - 6d1f577b3e47
@@ -10408,6 +10432,7 @@ tools:
   - 707023fa62fe
   - 7a6655aa6eb2
   - 8623710d083c
+  - 87d9511249cf
   - 8b9bf8b5157a
   - a9ab1b0a00dd
   - c0b037b12765
@@ -10427,6 +10452,7 @@ tools:
   - 55e35e9203cf
   - 69e2275406fd
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 93dd15e13e6a
   - a61350ab6563
   - b5c7ba11401d
@@ -10443,6 +10469,7 @@ tools:
   - 14c576ea6148
   - 286a24ac079c
   - 39e945f0b2c1
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 70f5f1fee692
@@ -10462,6 +10489,7 @@ tools:
   - 3d748954434b
   - 4000634ece52
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 6db1b06e6bbb
   - 9bd945a03d7b
   - 9ef202055d5c
@@ -10496,6 +10524,7 @@ tools:
   owner: iuc
   revisions:
   - 0ee9395e1eb2
+  - 27f120c69246
   - 4b0adaa31c95
   - 4c9fa3c63d9e
   - 59be31ac9dc3
@@ -12003,6 +12032,7 @@ tools:
   - 3be27a9a7313
   - '503487218735'
   - 53ce8be43212
+  - d90f9190eb27
   - f41a1e03538b
   - fb0bb7174530
   - fd2d6e035c3f
