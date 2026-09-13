@@ -693,6 +693,7 @@ tools:
   owner: imgteam
   revisions:
   - 5da9fe99cf02
+  - 6d62f6950f66
   tool_panel_section_label: Imaging
 - name: highdicom_dicom2tiff
   owner: imgteam
