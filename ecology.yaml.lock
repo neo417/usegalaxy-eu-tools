@@ -52,6 +52,7 @@ tools:
 - name: stoc_mainglm
   owner: ecology
   revisions:
+  - 8bea8b6b7276
   - a961be0a964f
   - df3ce23d0d23
   tool_panel_section_label: Species abundance
@@ -67,6 +68,7 @@ tools:
   revisions:
   - 5c244408661f
   - 916b49d725ba
+  - c4080ecebc6d
   tool_panel_section_label: Species abundance
 - name: regionalgam_ab_index
   owner: ecology
@@ -78,6 +80,7 @@ tools:
   owner: ecology
   revisions:
   - 58ecd15e6836
+  - 81a94130ee76
   tool_panel_section_label: Species abundance
 - name: regionalgam_gls_adjusted
   owner: ecology
@@ -88,6 +91,7 @@ tools:
 - name: regionalgam_glmmpql
   owner: ecology
   revisions:
+  - ca708716504c
   - f3e1b6d244a6
   tool_panel_section_label: Species abundance
 - name: regionalgam_autocor_acf
@@ -99,6 +103,7 @@ tools:
 - name: regionalgam_flight_curve
   owner: ecology
   revisions:
+  - 565f4aac2049
   - fff507f00b2b
   tool_panel_section_label: Species abundance
 - name: regionalgam_gls
@@ -111,10 +116,12 @@ tools:
   owner: ecology
   revisions:
   - 726a387cfdc2
+  - b5c1864c2989
   tool_panel_section_label: Biodiversity data exploration
 - name: ecology_beta_diversity
   owner: ecology
   revisions:
+  - 55fb9b8f7a5f
   - fb7b2cbd80bb
   tool_panel_section_label: Biodiversity data exploration
 - name: ecology_homogeneity_normality
@@ -126,6 +133,7 @@ tools:
 - name: ecology_link_between_var
   owner: ecology
   revisions:
+  - 0eb0be089223
   - 8e8867bf491a
   tool_panel_section_label: Biodiversity data exploration
 - name: ecology_presence_abs_abund
@@ -144,6 +152,7 @@ tools:
   owner: ecology
   revisions:
   - 5b31641e6d30
+  - 994b7e66ed1d
   tool_panel_section_label: Biodiversity data exploration
 - name: cb_dissim
   owner: ecology
@@ -155,6 +164,7 @@ tools:
   owner: ecology
   revisions:
   - bcbad4f83dec
+  - e3d06be7861b
   tool_panel_section_label: Compute indicators for turnover boulders fields
 - name: sample_seqs
   owner: peterjc
@@ -166,6 +176,7 @@ tools:
   owner: ecology
   revisions:
   - 4a9ac1df3278
+  - f774a93f3d5a
   tool_panel_section_label: Convert Formats
 - name: datamash_ops
   owner: iuc
@@ -462,6 +473,7 @@ tools:
   owner: ecology
   revisions:
   - 231179dea9dd
+  - 2acdea88780c
   - 462a44dfd3c4
   tool_panel_section_label: Climate Analysis
 - name: landcover_subindicator
@@ -474,6 +486,7 @@ tools:
   revisions:
   - 15260949227d
   - 208f69b31088
+  - 506abb9f6602
   - 7536ba055525
   - f10c3f6ee575
   tool_panel_section_label: Climate Analysis
@@ -491,6 +504,7 @@ tools:
   revisions:
   - 6c6ce67252bc
   - 72b1d470b3b8
+  - a08274370f9a
   - d626252fad72
   tool_panel_section_label: Climate Analysis
 - name: tool_biogeochemical_calibration
@@ -504,6 +518,7 @@ tools:
 - name: bgc_canyon_b
   owner: ecology
   revisions:
+  - 1ef6fd23e909
   - a9b8e70922a9
   tool_panel_section_label: Climate Analysis
 - name: venn_list
@@ -661,6 +676,7 @@ tools:
   - 4aa3666b66fa
   - 4ed102b922cb
   - 61461e52c923
+  - 70f61a4de941
   - 80852884053f
   - b7c3e9a3b954
   - de94341feadb
@@ -670,6 +686,7 @@ tools:
   owner: bgruening
   revisions:
   - 04b160a26690
+  - 625a129225f7
   - 6cf2a66c46f1
   - 7068b5fcd623
   - 86a086d2bbed
@@ -685,6 +702,7 @@ tools:
   - 21d3e08b1a48
   - 301e07345c93
   - 36e8d6d5d01b
+  - 40ff7c1f393a
   - 5023535e9f8b
   - 69c44aab684e
   - 7626ea9c2e1b
@@ -704,10 +722,12 @@ tools:
   - aef56d0e7a61
   - b1eda492f063
   - bc0117538945
+  - dc66f89ba2a2
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
   owner: bgruening
   revisions:
+  - 0a6b69524de2
   - 226524df8c6c
   - 3ff43fbb7ccf
   - 5bd0866dbc7a
@@ -726,6 +746,7 @@ tools:
   - 4cc980df6265
   - 672327583f74
   - 7ae443e6217d
+  - 7f21c9e5656d
   - 8b1b2b91f8d0
   - 900c42c3eef4
   - c030e4bb1b39
@@ -743,6 +764,7 @@ tools:
   - 981a0328d6bb
   - ad7e0b4291ee
   - bb9fc9d46ea4
+  - dcbfe6ed593b
   - e10e776f2109
   tool_panel_section_label: Machine Learning
 - name: sklearn_ensemble
@@ -751,6 +773,7 @@ tools:
   - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
+  - 2268fa04320d
   - 360330a867f0
   - 53616c8b0865
   - 841a6cc5fc58
@@ -766,6 +789,7 @@ tools:
   - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
+  - 83b406104228
   - 96bb4c49e30e
   - 9e0e31bd8392
   - e918f33f7d4f
@@ -780,6 +804,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 9ac0b78c6b6d
+  - a432f7a41307
   - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
@@ -789,6 +814,7 @@ tools:
   revisions:
   - 048d7bd59326
   - 0ee984c1cbd6
+  - 4cae0397fcdb
   - 68afcd163b3d
   - 6ffedbe712c0
   - 80ca74b1cb36
@@ -807,6 +833,7 @@ tools:
   - 7acb9b46c066
   - 7d98dfb04d27
   - 8ced2fac52f4
+  - 9c8344681465
   - c78a5fc9e758
   - dc17e2878dc1
   tool_panel_section_label: Machine Learning
@@ -815,6 +842,7 @@ tools:
   revisions:
   - 279cdd8d39e2
   - 2d032cff49eb
+  - 385a9ac83d56
   - 3e2921875c58
   - 4335cec181ba
   - 4ee087eeda62
@@ -835,6 +863,7 @@ tools:
   - d3fe6fcc6bf4
   - d4808d5b83da
   - dc4b5fd604a6
+  - ddd7fc59ba59
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
   owner: bgruening
@@ -844,6 +873,7 @@ tools:
   - 61e76fb65daf
   - 7e5631773cea
   - 845dfafac355
+  - b3cafb8519f8
   - bacc38e0a29e
   - be4f389a95d9
   - bfc7bdfcb423
@@ -858,6 +888,7 @@ tools:
   - 4efac966af2a
   - 602b5fb7ef09
   - 648b81bca7c5
+  - 923fba89da05
   - a84e6ffd3735
   - b7e93c1deb3f
   - ecd247e1ea9c
@@ -944,6 +975,7 @@ tools:
   owner: ecology
   revisions:
   - 123a9a629bef
+  - 3f70e5512e1d
   - 6baac361495b
   - b393815e4cb7
   - bf595d613af4
@@ -961,6 +993,7 @@ tools:
   owner: ecology
   revisions:
   - 1a91e551f3a9
+  - 38f1d26ad8e5
   - c91c27b63fb2
   - e87073edecd6
   tool_panel_section_label: GIS Data Handling
@@ -1308,6 +1341,7 @@ tools:
   owner: ecology
   revisions:
   - 123a9a629bef
+  - 3f70e5512e1d
   - 6baac361495b
   - b393815e4cb7
   - bf595d613af4
@@ -1325,6 +1359,7 @@ tools:
   owner: ecology
   revisions:
   - 1a91e551f3a9
+  - 38f1d26ad8e5
   - c91c27b63fb2
   - e87073edecd6
   tool_panel_section_label: GIS Data Handling
@@ -1340,6 +1375,7 @@ tools:
   owner: ecology
   revisions:
   - 810820a0d45c
+  - bb4a73ff1462
   tool_panel_section_label: GIS Data Handling
 - name: gdal_gdaladdo
   owner: ecology
@@ -1351,6 +1387,7 @@ tools:
 - name: gdal_gdalbuildvrt
   owner: ecology
   revisions:
+  - a9fb43f1515d
   - b6152f24b94d
   - cd4373ce2740
   tool_panel_section_label: GIS Data Handling
@@ -1364,6 +1401,7 @@ tools:
 - name: gdal_gdal_merge
   owner: ecology
   revisions:
+  - 13c2f7b9e201
   - 4285576f0690
   - caeb65a2ba87
   tool_panel_section_label: GIS Data Handling
@@ -1378,6 +1416,7 @@ tools:
   owner: ecology
   revisions:
   - daf66eda45b8
+  - e934b268add8
   - fd5594c05fab
   tool_panel_section_label: GIS Data Handling
 - name: gdal_ogr2ogr
@@ -1391,6 +1430,7 @@ tools:
   owner: ecology
   revisions:
   - 24696f52a90a
+  - 75fe8153d775
   - 7bdf6ee695a8
   tool_panel_section_label: GIS Data Handling
 - name: spocc_occ
@@ -1405,6 +1445,7 @@ tools:
   revisions:
   - 4b84de936c51
   - 6ed1b9c9d4cb
+  - a5841952c28a
   tool_panel_section_label: Get Data
 - name: obis_data
   owner: ecology
@@ -1416,6 +1457,7 @@ tools:
   owner: ecology
   revisions:
   - 0c9d6f02ca41
+  - 17b212cae5c6
   - 4edd010161e9
   - 87ae77f2bd5a
   - c07f11d8e49a
@@ -1430,6 +1472,7 @@ tools:
   owner: ecology
   revisions:
   - 911f80dce38d
+  - 91f2603fc8d7
   tool_panel_section_label: Animal Detection on Acoustic Recordings
 - name: vigiechiro_bilanenrichirp
   owner: ecology
@@ -1556,6 +1599,7 @@ tools:
 - name: vector_template
   owner: ecology
   revisions:
+  - 5988180c83af
   - 67fbd4f439ed
   - e2e0d0026cfa
   tool_panel_section_label: Data and Metadata Management
@@ -1569,6 +1613,7 @@ tools:
 - name: geo_cov_template
   owner: ecology
   revisions:
+  - 0c74d5ab4ae7
   - 5c2ade73e411
   - a0f39f45c6cb
   tool_panel_section_label: Data and Metadata Management
@@ -1583,6 +1628,7 @@ tools:
 - name: annotations_template
   owner: ecology
   revisions:
+  - 6ce7b3e8ff66
   - 79f2ca0bfa9a
   - c9a9024c7cb7
   tool_panel_section_label: Data and Metadata Management
@@ -1596,6 +1642,7 @@ tools:
 - name: makeeml
   owner: ecology
   revisions:
+  - 0d6ae3833bdf
   - 13cfbeff9922
   - 642e31c435c9
   - d6aa2a899877
@@ -1610,6 +1657,7 @@ tools:
 - name: data_paper_from_eml
   owner: ecology
   revisions:
+  - 0c8590a09ba5
   - cfe884e53600
   tool_panel_section_label: Data and Metadata Management
 - name: ecoregion_geonearestneighbor
@@ -1623,6 +1671,7 @@ tools:
   owner: ecology
   revisions:
   - aba980404954
+  - c369c8ca4de6
   - dcc059f387b6
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_taxa_seeker
@@ -1637,12 +1686,14 @@ tools:
   revisions:
   - 57c618532ac1
   - 876a70f08281
+  - ac2e1f0d5eac
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_cluster_estimate
   owner: ecology
   revisions:
   - 6c5404468d8c
   - 8307fa98be22
+  - d1873a180fc3
   tool_panel_section_label: Ecoregionalization
 - name: ecoregion_clara_cluster
   owner: ecology
@@ -1655,6 +1706,7 @@ tools:
   owner: ecology
   revisions:
   - 8ac53593cef6
+  - 9a45bd7baad6
   - adeb719a267f
   tool_panel_section_label: Ecoregionalization
 - name: indicspecies
@@ -1667,6 +1719,7 @@ tools:
   owner: ecology
   revisions:
   - ce9979488ebb
+  - e35f99a0d36c
   tool_panel_section_label: Indicators from geometric mean
 - name: mean_geom
   owner: ecology
@@ -1677,6 +1730,7 @@ tools:
 - name: bar_plot
   owner: ecology
   revisions:
+  - 29c82445e058
   - 985f8839aebd
   tool_panel_section_label: Indicators from geometric mean
 - name: interpolation_run_idw_interpolation
@@ -1710,6 +1764,7 @@ tools:
 - name: aquainfra_importer
   owner: ecology
   revisions:
+  - 849ccd4b6b0f
   - cc18c3bf2666
   tool_panel_section_label: Get Data
 - name: nfdi4earth_os4a
@@ -1728,6 +1783,7 @@ tools:
   - 3270cbefe9e6
   - 345dcb57726f
   - 3a6fe90f58f9
+  - 4116f5bea43c
   - 5acff8859db2
   - 65b149d71d53
   - 6b0a7e4e1460
@@ -1752,6 +1808,7 @@ tools:
   revisions:
   - 49e08dbd94c5
   - 4f3c56dc4c60
+  - 678b94ad35f1
   - bd9387244808
   - d0e94d4679cb
   tool_panel_section_label: GIS Data Handling
@@ -1764,6 +1821,7 @@ tools:
 - name: iabiodiv_smartbiodiv_med_environ
   owner: ecology
   revisions:
+  - 2381a8abb1fb
   - 3e201bc0eea3
   - 835eb4978581
   - b79faea33a8a
@@ -1779,6 +1837,7 @@ tools:
 - name: sdmpredictors_list_layers
   owner: ecology
   revisions:
+  - 5330e3479c75
   - f20914d71c9d
   tool_panel_section_label: Get Data
 - name: retrieve_bold
@@ -1790,6 +1849,7 @@ tools:
   owner: ecology
   revisions:
   - 12870a79d56b
+  - 5908bf55fb33
   - 9d689f8c9ce4
   tool_panel_section_label: Annotation
 - name: crsconverter
@@ -1802,6 +1862,7 @@ tools:
 - name: phylogenetic_occupancy_matcher
   owner: ecology
   revisions:
+  - d3a170230560
   - e260f1a598da
   tool_panel_section_label: Phylodiversity
 - name: phylo_index
@@ -1815,6 +1876,7 @@ tools:
   revisions:
   - 7a952542e639
   - b8f366e925e7
+  - cd5f1b09913d
   tool_panel_section_label: Phylodiversity
 - name: wildlife_megadetector_huggingface
   owner: ecology

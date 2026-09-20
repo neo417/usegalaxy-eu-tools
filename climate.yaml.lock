@@ -77,6 +77,7 @@ tools:
   owner: ecology
   revisions:
   - 00de53d18b99
+  - 56f57ddccbd3
   - 9bbaab36a5d4
   - e8650cdf092f
   tool_panel_section_label: GIS Data Handling
@@ -169,6 +170,7 @@ tools:
 - name: spocc_occ
   owner: ecology
   revisions:
+  - 4546864dbc34
   - f64b3c1a80a6
   - f9d76a46799a
   tool_panel_section_label: Get Data
